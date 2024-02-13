@@ -59,6 +59,7 @@ button{
     background: none;
     font-size: 1rem;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 #color-seed{
